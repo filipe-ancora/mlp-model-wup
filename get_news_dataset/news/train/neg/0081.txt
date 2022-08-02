@@ -1,0 +1,19 @@
+ESG e tecnologia: segurança da informação sob um olhar social
+Por João Ricardo Saud*
+A forma como a sociedade deve olhar para a segurança da informação mudou. Esta foi uma das principais conclusões da edição deste ano da RSA Conference, um dos principais eventos mundiais sobre segurança da informação, realizado entre 6 e 9 de junho, em São Francisco, na Califórnia.
+Quem atua na área há de concordar: há pouco tempo, a segurança da informação era um assunto abordado na pauta empresarial, mas não saía muito dali. Com os crescentes ataques hackers, muitos deles com perfil terrorista, contra governos, o assunto começou a ganhar a esfera pública e os noticiários.
+Agora, vem surgindo um novo olhar sobre o tema: assim como o mundo tem se preocupado com o aquecimento global e os direitos das minorias, o tripé tecnologia, informação e segurança passa a ser incluído nas pautas ambientais, sociais e até humanitárias. Natural, afinal de contas, a tecnologia digital se tornou uma camada que permeia toda a nossa existência.
+É um assunto de extrema importância. No entanto, muitos países ainda não se adaptaram a essa realidade, incluindo o Brasil. O que podemos dizer, sobre o que vivemos no dia a dia, e o que observamos na RSA, é que isso é um erro. A cibersegurança não pode ser um tema que interessa ou diz respeito somente ao mundo corporativo.
+Nos Estados Unidos, por exemplo, após uma série de crises de vazamento de informações, a sociedade já começa a enraizar o conceito de que segurança de dados é um tema de importância sociológica.
+Além disso, a guerra entre Rússia e Ucrânia é prova dessa preocupação crescente. Um levantamento da Microsoft apontou que as Forças Armadas da Rússia lançaram ataques cibernéticos contra pelo menos 48 agências e empresas ucranianas. E os exemplos não param aí: recentemente, Israel acusou a Turquia de ataques físicos e cibernéticos contra sua infraestrutura nuclear e militar no Irã e na Síria - e pediu que seus cidadãos deixem a Turquia imediatamente sob risco de ataques terroristas.
+E é nessa esfera social que muitas empresas não sabem ainda como operar.
+Um passo a mais
+É imprescindível que as organizações, principalmente as grandes, que armazenam bilhões de dados sigilosos e pessoais, tenham equipes de TI (Tecnologia da Informação) bem preparadas e se protejam de ataques cibernéticos. Mas é preciso ir além.
+Não podemos fugir ao nosso papel social, e proteger dados apenas para evitar prejuízos financeiros. A atenção à cibersegurança deve ultrapassar as fronteiras da esfera privada.
+A partir de agora, precisamos levar em conta o contexto mundial e priorizar também a proteção da comunidade de empresas, pessoas, órgãos públicos e ainda a proteção da vida.
+*João Ricardo Saud é vice-presidente executivo da Asper
+Siga a Bússola nas redes: Instagram | Linkedin | Twitter | Facebook | Youtube
+Veja também
+Como prevenir ataques cibernéticos em eventos ao vivo
+Navegar voando: wi-fi para celular vira rotina em aviões
+Abrainc debate uso de tecnologia e metaverso na construção civil

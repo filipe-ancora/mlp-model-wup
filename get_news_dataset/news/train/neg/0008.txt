@@ -1,0 +1,9 @@
+Enel passa a discriminar tarifas na conta de energia a partir de novembro; entenda mudanças
+A partir de novembro, a Enel Distribuição Ceará passará a mostrar os custos que compõem a conta de energia de forma discriminada, exibindo valores diferentes da Tarifa TE e da Tarifa TUSD.
+Essas informações constarão no campo "descrição do faturamento" da conta de luz, mostrando exatamente o preço a ser pago.
+Segundo a Enel, as tarifas passarão a ser mostradas separadamente para que fique mais claro para o consumidor que valores fazem parte da fatura.
+A empresa reitera que os valores TUSD e TE discriminados nas faturas são apenas demonstrativos e não significam duplicidade e nem aumento no valor da conta de energia.
+O mesmo valor pago pelo consumidor antes será mostrado agora de forma detalhada.
+O que é TE e TUSD?
+A TE é a Tarifa de Energia. A taxa representa o valor da energia consumida na residência mensalmente em R$/kWh.
+A TUSD, por sua vez, é a Tarifa de Uso do Sistema de Distribuição. Esse valor, também em R$/kWh, é referente ao uso do sistema de distribuição de energia elétrica. Essa tarifa cobre os custos com os fios, os postes, transformadores e outros equipamentos utilizados para o transporte de energia.

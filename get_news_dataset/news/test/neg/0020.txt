@@ -1,0 +1,42 @@
+É o fim do piloto automático da Tesla? Empresa de Elon Musk perde um de seus principais funcionários
+E AGORA, MUSK?
+Andrej Karpathy atuou como líder de inteligência artificial (IA) e piloto automático da Tesla durante cinco anos
+Os últimos meses não foram fáceis para Elon Musk. Primeiro, o CEO da Tesla enfrenta um processo multibilionário por um suposto esquema de pirâmide com dogecoin (DOGE). Depois, sua fabricante de veículos elétricos perdeu a coroa de maior vendedora deste tipo de automóveis no mundo.
+Em seguida, viu o Twitter levar a briga deles à justiça, com pena de multa de US$ 1 bilhão contra o bilionário por ter desistido do acordo de compra da empresa de mídia social. Dias depois, ele ainda testemunhou nesta semana o seu foguete explodir na fábrica da SpaceX.
+Agora, para fechar com chave de ouro o inferno astral do homem mais rico do mundo, a Tesla acaba de perder um de seus principais funcionários.
+Tchau, inteligência artificial da Tesla?
+O líder de inteligência artificial (IA) e piloto automático da Tesla, Andrej Karpathy, anunciou ontem que deixou de trabalhar na montadora de Elon Musk.
+“Foi um grande prazer ajudar a Tesla a atingir seus objetivos nos últimos 5 anos e uma decisão difícil de seguir caminhos separados”, escreveu Karpathy no Twitter.
+Publicidade
+It’s been a great pleasure to help Tesla towards its goals over the last 5 years and a difficult decision to part ways. In that time, Autopilot graduated from lane keeping to city streets and I look forward to seeing the exceptionally strong Autopilot team continue that momentum. — Andrej Karpathy (@karpathy) July 13, 2022
+O executivo já estava em período sabático da Tesla havia quatro meses — o suficiente para gerar rumores de que talvez ele não retornasse à fabricante de veículos elétricos.
+No tweet de despedida, Andrej destacou que ainda não tem planos à vista para o futuro pós-Tesla. Porém, segundo fontes informaram ao site TechCrunch, Karpathy está considerando algum tipo de investimento de risco.
+“Não tenho planos concretos para o que vem a seguir, mas procuro passar mais tempo revisitando minhas paixões de longo prazo em torno do trabalho técnico em IA, código aberto e educação”.
+Publicidade
+Demissões em massa na empresa de Musk
+A saída de Andrej Karpathy não foi a única na equipe do piloto automático da Tesla.
+No fim do mês passado, a empresa de Elon Musk decidiu fechar o escritório em San Mateo, na Califórnia, para cortar os custos na fabricante de veículos elétricos.
+A unidade era a maior a equipe maior de piloto automático da empresa e era responsável por melhorar a tecnologia e os sistemas de assistência ao motorista.
+De acordo com registros do Departamento de Desenvolvimento de Emprego da Califórnia, o fechamento da instalação resultou em 229 pessoas na rua.
+Publicidade
+Quem é o executivo que deixou a Tesla?
+A carreira acadêmica de Andrej Karpathy é extensa. O executivo se formou em 2009 na Universidade de Toronto com dupla especialização, em ciência da computação e física e em matemática.
+Em 2011, ele se tornou mestre pela Universidade da Colúmbia Britânica e logo seguiu para Stanford para realizar seu doutorado em redes neurais artificiais — isto é, modelos computacionais capazes de realizar o aprendizado e o reconhecimento de padrões — e as aplicações em visão computacional e processamento de linguagem natural.
+Enquanto estava em Stanford, Karpathy conseguiu 3 estágios. O primeiro foi logo no início de seu doutorado, em 2011, no Google Brain.
+Dois anos depois, ele foi contratado para trabalhar como estagiário no Google Research na divisão que cuidava da área de vídeos do YouTube. Em 2015, ele ingressou na DeepMind.
+Publicidade
+Assim que concluiu o doutorado, Andrej tornou-se cientista pesquisador e membro fundador da OpenAI, uma organização sem fins lucrativos de pesquisa em inteligência artificial, que busca desenvolver IA amigável.
+Em 2017, o cientista entrou para a Tesla como diretor sênior de IA e passou a liderar a equipe de visão computacional do piloto automático da fabricante de automóveis elétricos.
+As promessas de Elon Musk
+Elon Musk é um homem de promessas, mas já alertou os investidores que pode não ser pontual.
+No fim de 2016, o bilionário prometeu aos fãs da Tesla que, no próximo ano, entregaria um carro autônomo que poderia dirigir de Los Angeles a Nova York sem “a necessidade de um único toque”.
+Também há três anos, Elon Musk levantou bilhões de dólares para a Tesla com a promessa de que, até o fim de 2020, a fabricante teria 1 milhão de carros “prontos para robôs” nas estradas.
+Porém, até agora, a companhia não conseguiu colocar no mercado veículos efetivamente autônomos.
+Os modelos atuais de piloto automático da Tesla fornecem recursos de assistência ao motorista, como assistência na manutenção da faixa e navegação automatizada.
+“Hoje, o piloto automático aumenta a segurança e a conveniência de dirigir, mas o objetivo da equipe é desenvolver e implantar a ‘Autodireção Completa’ em nossa frota de milhões de carros em rápido crescimento”, disse Karpathy.
+Os carros automáticos da Tesla
+Os veículos da Tesla foram responsáveis ​​por aproximadamente 70% dos acidentes envolvendo sistemas avançados de assistência ao motorista desde junho de 2021, segundo dados da Administração Nacional de Segurança no Tráfego Rodoviário dos Estados Unidos divulgados no mês passado.
+De acordo com a organização, desde junho do ano passado, foram relatados 392 acidentes desse tipo por 11 montadoras. Desse total, os carros da montadora de Elon Musk foram responsáveis por 273 acidentes.
+Vale destacar que o órgão norte-americano destacou que os números deste primeiro levantamento estavam incompletos e não tinham como objetivo indicar os sistemas da montadora mais seguros.
+“Os dados iniciais ainda não têm o contexto adequado e servem apenas como um guia para identificar rapidamente possíveis tendências de defeitos e ajudar a determinar se os sistemas estão melhorando a segurança dos veículos”.
+*Com informações de CNBC
